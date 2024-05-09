@@ -1,23 +1,19 @@
-### Hi there 👋
+<div style="display: flex; lex-direction: row;">
+          <img src="https://github-readme-stats.vercel.app/api?username=MonsterTechnoGits&theme=city_light&hide_border=false&include_all_commits=true&count_private=false" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonsterTechnoGits&theme=adobe&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterTechnoGits&theme=adobe&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=MonsterTechnoGits&theme=city_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MonsterTechnoGits&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterTechnoGits&theme=city_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
+<div>
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=MonsterTechnoGits&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<!--
-**MonsterTechnoGits/MonsterTechnoGits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=MonsterTechnoGits&label=Profile%20Views&color=12&icon=5&pretty=true"/>
+    </a>
+</div>
