@@ -1,3 +1,9 @@
+<!-- 
+<meta name="description" content="Suman Dey - Full-Stack Developer with 7+ years of experience in web development. Expertise in JavaScript, Java, HTML5, TypeScript, AWS, Cloudflare, Firebase, and more.">
+<meta name="keywords" content="Suman Dey, Full-Stack Developer, Software Engineer, Web Development, JavaScript, Java, HTML5, TypeScript, AWS, Cloudflare, Firebase, NPM, Bootstrap, Chart.js, Express.js, jQuery, JWT, Nodemon, NodeJS, Next JS, React Hook Form, React Router, React Query, React, Socket.io, TailwindCSS, Apache, Nginx, MariaDB, SQLite, Redis, Postgres, MySQL, MongoDB, GitHub Actions, Git, GitHub">
+<meta name="author" content="Suman Dey">
+-->
+
 **Hey, I’m Suman Dey, a full-stack dev with 7+ years of coding magic under my belt.**  
 From front-end flair to back-end muscle, I’ve seen it all and built it all. I’m all about crafting sleek, scalable web apps that work smoothly and look great. Code is my playground, and I love diving into tricky problems, finding smart solutions, and always leveling up my skills. If there’s a challenge, I’m up for it—let’s build something awesome!
 
@@ -13,5 +19,3 @@ From front-end flair to back-end muscle, I’ve seen it all and built it all. I�
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MonsterTechnoGits&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
